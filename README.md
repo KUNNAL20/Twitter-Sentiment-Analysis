@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 A Python script that analyses sentiment on a given topic from tweets data provided by Twitter
 
-## Introduction
+# Introduction
 People are paying attention to Twitter, Facebook, and Whatsapp these days, and
 they are becoming very popular among them. Sentiment analysis offers numerous
 chances for developing a new application. Sentiment analysis has a huge impact on
@@ -10,7 +10,7 @@ want to know what consumer think about their product and its brand value. The
 goal of sentiment analysis is to extract a person’s behaviour, mood and opinion
 from the text.
 
-## Natural Language Processing
+# Natural Language Processing
 
 Natural Language Processing (NLP) is a branch of computer science that explores
 the creation of systems that can interact with people in simple language. It is
