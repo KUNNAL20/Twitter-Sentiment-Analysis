@@ -8,11 +8,7 @@ chances for developing a new application. Sentiment analysis has a huge impact o
 the industrial field, such as government organisations and large corporations, who
 want to know what consumer think about their product and its brand value. The
 goal of sentiment analysis is to extract a person’s behaviour, mood and opinion
-from the text. Opinion Mining techniques are
-used to determine peoples opinions on social media. Twitter is also a large platform
-where different ideas, thoughts, and opinions are presented and exchanged. People
-comment, praise, debate, and argue regardless of their origins or religious beliefs,
-whether they are poor or rich, uneducated or educated.
+from the text.
 
 ## Natural Language Processing
 
