@@ -36,5 +36,3 @@ the tweets. And this model will help in predicting the sentiment and what is the
 accuracy by using different machine learning algorithms.
 
 
-## Gettting Started
-
