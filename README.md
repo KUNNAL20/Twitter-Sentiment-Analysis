@@ -25,7 +25,7 @@ This is one of the most interesting challenges in NLP so I’m very excited to t
 # Problem Statement
 In current scenario a huge population in India is expressing their view and opinion for government policies or for any social issue through social media. Politicians are frequently accused of changing their stance on issues or going along with the party’s stance. We wanted to see whether politician’s tweets differed greatly depending on their party affiliation, or when or where they were tweets. Are these tweets have any significant effects on election results or not.
 
-The main objective of this thesis is to do sentiment analysis of politician timeline
+The main objective of this project is to do sentiment analysis of politician timeline
 tweets which they have tweeted during the election campaign and also include to
 find out tweets sentiment in which these politicians are tagged like how people are
 thought and reacting about these politician timeline tweets.
